@@ -97,4 +97,4 @@ async def stop(ctx):
     else:
         await ctx.send('البوت ليس متصلاً بروم صوتي.')
 
-bot.run('ضع_التوكن_هنا')
+bot.run('MTU1Mjg1NjY1ODIxMDcxNzcyNg.GHvMqp.qDv-4mmBatZk-UyLWnBFdbSSiXOTj5JMRL5L6Q')
